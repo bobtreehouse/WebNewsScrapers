@@ -8,7 +8,7 @@ Created on Mon Jan  7 18:30:25 2019
 import bs4 as bs
 import urllib.request 
 
-save_path = 'C:/Users/bobtr/OneDrive/Desktop/Clocks/PythonDailyNews'
+save_path = 'C:/Users/.../PythonDailyNews'
 
 
 sauce = urllib.request.urlopen('https://finance.yahoo.com/').read()
